@@ -52,7 +52,7 @@ fork - "fork" creates your own copy of someone else's repository
 • git push				- sends committed changes to remote repository
 • git pull				- retrieve changes from remote repository
 • git status				- inspects the contents of the working directory and staging area
-• git cherry-pick		        - to add any particular commit to your branch
+• git cherry-pick		        - to add any change from any particular commit to your branch
 
 
 |-------------------------|
