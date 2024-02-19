@@ -53,6 +53,10 @@ fork - "fork" creates your own copy of someone else's repository
 • git pull				- retrieve changes from remote repository
 • git status				- inspects the contents of the working directory and staging area
 • git cherry-pick commit@{#no}	        - to add any change from any particular commit to your branch
+• git maintenance start 	        - it will start the maintanance of that repo in the background for every hour, everyday by adding a cron job.
+• git maintenance run    	        - to run maintenance right at the moment.
+• git maintenance stop    	        - to stop the maintenance.
+
 
 
 |-------------------------|
