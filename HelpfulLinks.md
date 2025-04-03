@@ -7,3 +7,7 @@
 **Reverting a commit in GitHub Desktop:** https://docs.github.com/en/desktop/managing-commits/reverting-a-commit-in-github-desktop <br>
 <br>
 **Getting started with GitHub Desktop:** https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop
+<br>
+
+**Locating and Recovering Deleted File:**
+https://github.com/copilot/share/0a18001e-01a0-80e0-b840-9801c46521c5
