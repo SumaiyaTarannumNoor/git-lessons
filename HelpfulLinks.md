@@ -11,3 +11,7 @@
 
 **Locating and Recovering Deleted File:**
 https://github.com/copilot/share/0a18001e-01a0-80e0-b840-9801c46521c5
+<br>
+
+**Guide to permanently delete files from Git history:**
+https://github.com/copilot/share/8071431c-41a0-8c62-a842-8a49e42529d5
