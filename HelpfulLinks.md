@@ -23,5 +23,8 @@ https://github.com/copilot/share/4051028e-09a4-88c6-9803-8a41e06729d6
 
 **Migrating existing Hit repositories to a new remote server:**
 https://github.com/copilot/share/c830138c-00a0-8c46-a802-8801e0274096
+<br>
 
+**Troubleshoot and resolve issues with uninitialized Git submodules:**
+https://github.com/copilot/share/4071438e-0084-8460-a801-1a01e06d20c5
 
