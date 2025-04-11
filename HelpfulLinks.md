@@ -19,5 +19,9 @@ https://github.com/copilot/share/8071431c-41a0-8c62-a842-8a49e42529d5
 
 **Git commands for synchronizing branches:**
 https://github.com/copilot/share/4051028e-09a4-88c6-9803-8a41e06729d6
+<br>
+
+**Migrating existing Hit repositories to a new remote server:**
+https://github.com/copilot/share/c830138c-00a0-8c46-a802-8801e0274096
 
 
