@@ -1,4 +1,4 @@
-**Helpful Links-** <br>
+no**Helpful Links-** <br>
 <br>
 **Just a helpful tutorial:**  https://www.datacamp.com/tutorial/git-push-pull<br>
 <br>
@@ -27,4 +27,7 @@ https://github.com/copilot/share/c830138c-00a0-8c46-a802-8801e0274096
 
 **Troubleshoot and resolve issues with uninitialized Git submodules:**
 https://github.com/copilot/share/4071438e-0084-8460-a801-1a01e06d20c5
+<br>
 
+**Committing in multiple remote repositories:**
+https://github.com/copilot/share/4a19508c-0184-88e0-9103-0a49e02d6987
