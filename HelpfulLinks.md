@@ -1,4 +1,4 @@
-no**Helpful Links-** <br>
+**Helpful Links-** <br>
 <br>
 **Just a helpful tutorial:**  https://www.datacamp.com/tutorial/git-push-pull<br>
 <br>
@@ -31,3 +31,7 @@ https://github.com/copilot/share/4071438e-0084-8460-a801-1a01e06d20c5
 
 **Committing in multiple remote repositories:**
 https://github.com/copilot/share/4a19508c-0184-88e0-9103-0a49e02d6987
+<br>
+
+**Managing multiple GitHub accounts:**
+https://github.com/copilot/share/8271120e-0180-8c40-a940-0800c06701c6
