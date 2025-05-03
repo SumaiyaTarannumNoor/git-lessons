@@ -9,10 +9,6 @@
 **Getting started with GitHub Desktop:** https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop
 <br>
 
-**Locating and Recovering Deleted File:**
-https://github.com/copilot/share/0a18001e-01a0-80e0-b840-9801c46521c5
-<br>
-
 **Guide to permanently delete files from Git history:**
 https://github.com/copilot/share/8071431c-41a0-8c62-a842-8a49e42529d5
 <br>
@@ -35,3 +31,7 @@ https://github.com/copilot/share/4a19508c-0184-88e0-9103-0a49e02d6987
 
 **Managing multiple GitHub accounts:**
 https://github.com/copilot/share/8271120e-0180-8c40-a940-0800c06701c6
+
+**How to recover deleted Git file:**
+https://github.com/copilot/share/0270501e-40a4-84e2-8143-1a41e4ed6995
+<br>
