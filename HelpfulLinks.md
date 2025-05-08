@@ -35,3 +35,7 @@ https://github.com/copilot/share/8271120e-0180-8c40-a940-0800c06701c6
 **How to recover deleted Git file:**
 https://github.com/copilot/share/0270501e-40a4-84e2-8143-1a41e4ed6995
 <br>
+
+**Remove file from Git History using BFG and Filter-Repo approaches:**
+https://github.com/copilot/share/8239538c-41a0-88c6-8051-0840c46f69d7
+<br>
