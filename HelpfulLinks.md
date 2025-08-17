@@ -8,6 +8,9 @@
 <br>
 **Getting started with GitHub Desktop:** https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop
 <br>
+**Exploring Git Clone --depth**
+https://medium.com/@thriving_chiffon_gnu_714/exploring-git-clone-depth-828eb4bac6c4
+<br>
 
 **Guide to permanently delete files from Git history:**
 https://github.com/copilot/share/8071431c-41a0-8c62-a842-8a49e42529d5
