@@ -77,6 +77,7 @@ fork - "fork" creates your own copy of someone else's repository
 • git diff				- shows the difference between the working directory and the staging area
 • git remote -v				- Lists a Git project's remotes.
 • git --version				- check git version 
-
+• git reset --hard HEAD~<number of commits>				- Undo last 10 commits(big changes) after pushing all of them
+• git push --force				- force push to reset or when a conflict appears
 
 
